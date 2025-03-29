@@ -1,5 +1,7 @@
 # Supplementary materials of the paper entitled "*An Assessment of Crop-Specific Land Cover Predictions Using High-Order Markov Chains and Deep Neural Networks*"
 
+The methodology of paper can be found at <https://doi.org/10.6339/23-JDS1098>.
+
 ## Hardware requirements
 
 About 85GB of RAM are required to process the data files provided.
