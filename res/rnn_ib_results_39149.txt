@@ -1,0 +1,101 @@
+Conversion time: 0.31273555755615234
+Overall:88.36639848
+Training time:51.35
+Overall:80.24469147
+Training time:54.377
+Overall:88.3273804
+Training time:53.827
+Overall:86.97798285
+Training time:59.471
+Overall:86.63911349
+Training time:55.044
+Overall:89.13807456
+Training time:55.627
+Overall:88.42338893
+Training time:53.853
+Overall:87.35981218
+Training time:54.768
+Overall:88.72831791
+Training time:54.033
+Overall:87.84840674
+Training time:47.885
+Overall:86.07622423
+Training time:54.23
+Overall:88.68642692
+Training time:55.54
+Overall:88.6993884
+Training time:51.806
+Overall:65.25446603
+Training time:84.181
+Overall:85.95489403
+Training time:52.875
+Overall:87.2493723
+Training time:59.447
+Overall:85.97072842
+Training time:53.459
+Overall:86.96107946
+Training time:56.784
+Overall:87.95450385
+Training time:53.782
+Overall:88.79339258
+Training time:58.182
+Overall:86.5189859
+Training time:52.973
+Overall:88.65783148
+Training time:53.276
+Overall:88.84804462
+Training time:53.449
+Overall:88.68301952
+Training time:52.221
+Overall:86.65648455
+Training time:84.853
+Overall:89.07460337
+Training time:55.16
+Overall:87.62031132
+Training time:55.22
+Overall:87.66413985
+Training time:54.866
+Overall:89.09584952
+Training time:54.953
+Overall:88.34715669
+Training time:55.465
+Overall:87.83831816
+Training time:54.669
+Overall:87.62572307
+Training time:55.231
+Overall:87.45214606
+Training time:54.973
+Overall:88.463476
+Training time:54.531
+Overall:88.62856792
+Training time:54.123
+Overall:88.0529176
+Training time:54.921
+Overall:87.29547243
+Training time:54.897
+Overall:88.75651248
+Training time:55.217
+Overall:88.64794333
+Training time:56.042
+Overall:88.54672348
+Training time:54.775
+Overall:85.59284098
+Training time:55.178
+Overall:86.80834773
+Training time:54.781
+Overall:88.93743878
+Training time:54.607
+Overall:87.85448661
+Training time:55.672
+Overall:87.6173716
+Training time:54.548
+Overall:86.22808741
+Training time:55.952
+Overall:87.77792031
+Training time:55.933
+Overall:87.77932336
+Training time:56.166
+Overall:88.6239579
+Training time:54.116
+Overall:88.70172682
+Training time:54.473

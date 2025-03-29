@@ -1,0 +1,101 @@
+Conversion time: 0.16764593124389648
+Overall:67.0642972
+Training time:37.122
+Overall:67.78053532
+Training time:39.308
+Overall:68.87571325
+Training time:30.103
+Overall:71.30446631
+Training time:82.912
+Overall:68.27969011
+Training time:36.902
+Overall:72.70685358
+Training time:35.857
+Overall:68.27620824
+Training time:42.247
+Overall:70.45875507
+Training time:31.312
+Overall:72.99403715
+Training time:40.06
+Overall:73.55650959
+Training time:39.106
+Overall:68.09915632
+Training time:36.034
+Overall:68.54795487
+Training time:44.404
+Overall:71.87078289
+Training time:36.423
+Overall:68.17362399
+Training time:36.146
+Overall:69.9084591
+Training time:43.029
+Overall:72.02090569
+Training time:35.874
+Overall:73.19159787
+Training time:37.704
+Overall:68.75755117
+Training time:48.169
+Overall:72.47634595
+Training time:30.58
+Overall:72.99774041
+Training time:38.604
+Overall:71.57450219
+Training time:41.956
+Overall:72.37959835
+Training time:32.544
+Overall:72.78862714
+Training time:42.56
+Overall:71.06936986
+Training time:38.337
+Overall:70.47815692
+Training time:40.487
+Overall:68.9246204
+Training time:36.102
+Overall:67.77268602
+Training time:38.065
+Overall:71.76652815
+Training time:83.213
+Overall:68.04604276
+Training time:41.976
+Overall:72.57091989
+Training time:42.596
+Overall:72.15549091
+Training time:31.04
+Overall:68.36655564
+Training time:39.843
+Overall:67.97741174
+Training time:38.004
+Overall:73.51559262
+Training time:36.42
+Overall:69.49572707
+Training time:40.218
+Overall:69.10551646
+Training time:37.382
+Overall:66.66535174
+Training time:36.009
+Overall:73.39384804
+Training time:38.465
+Overall:68.93381816
+Training time:31.277
+Overall:72.59064376
+Training time:32.094
+Overall:72.48403423
+Training time:42.895
+Overall:73.22317619
+Training time:36.886
+Overall:71.76944648
+Training time:33.848
+Overall:69.39624228
+Training time:43.23
+Overall:68.62614592
+Training time:33.546
+Overall:67.62459599
+Training time:39.255
+Overall:68.62725287
+Training time:47.15
+Overall:73.39167439
+Training time:33.165
+Overall:67.29804518
+Training time:42.036
+Overall:72.96638348
+Training time:38.918
